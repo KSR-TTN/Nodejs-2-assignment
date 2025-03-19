@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "age": 20,
+    "branch": "Computer Science",
+    "email": "john.smith@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Emma Johnson",
+    "age": 21,
+    "branch": "Electronics",
+    "email": "emma.johnson@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "age": 19,
+    "branch": "Mechanical",
+    "email": "michael.brown@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Davis",
+    "age": 22,
+    "branch": "Computer Science",
+    "email": "sarah.davis@example.com"
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "age": 20,
+    "branch": "Civil",
+    "email": "james.wilson@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Miller",
+    "age": 21,
+    "branch": "Electronics",
+    "email": "olivia.miller@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Robert Taylor",
+    "age": 19,
+    "branch": "Mechanical",
+    "email": "robert.taylor@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Emily White",
+    "age": 22,
+    "branch": "Computer Science",
+    "email": "emily.white@example.com"
+  },
+  {
+    "id": 9,
+    "name": "William Martinez",
+    "age": 20,
+    "branch": "Civil",
+    "email": "william.martinez@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Sophia Anderson",
+    "age": 21,
+    "branch": "Computer Science",
+    "email": "sophia.anderson@example.com"
+  }
+] 

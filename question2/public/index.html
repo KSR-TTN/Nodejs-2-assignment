@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Management System</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Student Management System</h1>
+    </header>
+    
+    <main>
+      <section class="filters">
+        <h2>Filter by Branch</h2>
+        <div id="branchFilters" class="filter-container">
+          <!-- Branch filters will be added here dynamically -->
+          <button class="filter-btn active" data-branch="all">All Branches</button>
+        </div>
+      </section>
+      
+      <section class="students">
+        <h2>Student List</h2>
+        <div class="table-container">
+          <table id="studentTable">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Branch</th>
+                <th>Email</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="studentTableBody">
+              <!-- Student data will be inserted here dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    
+    <footer>
+      <p>&copy; 2025 Student Management System. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html> 
